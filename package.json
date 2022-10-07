@@ -1,0 +1,26 @@
+{
+  "name": "music-player-app-data",
+  "version": "1.0.0",
+  "description": "simple database to host music data for my music player app",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinceXIV/music-player-app-data.git"
+  },
+  "keywords": [
+    "Vincent Makokha, music, REST API, json-server, heroku"
+  ],
+  "author": "Vincent Makokha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinceXIV/music-player-app-data/issues"
+  },
+  "homepage": "https://github.com/VinceXIV/music-player-app-data#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

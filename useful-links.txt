@@ -1,0 +1,5 @@
+Create a Fake API with json-server and publish on Heroku
+https://www.youtube.com/watch?v=jAnJCsQDyXk
+
+Github link for the video above
+https://github.com/mehmetyilmaz001/fake-product-api-json-server
